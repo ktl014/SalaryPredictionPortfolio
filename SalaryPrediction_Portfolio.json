@@ -1,0 +1,8 @@
+{
+    "project_name": "Salary Prediction Portfolio",
+    "repo_name": "SalaryPredictionPortfolio",
+    "author_name": "Kevin Le",
+    "description": "Salary Prediction Project (Python)",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
+    "python_interpreter": ["python3", "python"]
+}
